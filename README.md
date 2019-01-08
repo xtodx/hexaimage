@@ -2,4 +2,4 @@
 
 **Install**
 
-`composer require xtodx/csscache dev-master`
+`composer require xtodx/hexaimage dev-master`
